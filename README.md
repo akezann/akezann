@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akezann&label=Profile%20views&color=0e75b6&style=flat" alt="akezann" /> </p>
 
-- 🌱 I’m currently learning **typescript, nextjs, Kotlin, nextJs.**
+- 🌱 I’m currently learning **typescript, nextjs, nestJs.**
 
-- 💬 Ask me about **c, react,**
+- 💬 Ask me about **c, react, Js.**
 
 - 📫 How to reach me **abderrafi.kez@gmail.com**
 
